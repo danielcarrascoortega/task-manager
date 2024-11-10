@@ -1,0 +1,1 @@
+/* Este script todavía no hace nada */
